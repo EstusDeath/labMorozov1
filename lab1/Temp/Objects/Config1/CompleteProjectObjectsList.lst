@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.5.2.102"?>
+<Objects>
+  <Object
+    Path="C:\projects\lab1\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package.ParentUnknown"
+    LastWriteTime="133415081460262919" />
+  <Object
+    Path="C:\projects\lab1\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="133415080415582060"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="133415080415741912"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="133415082578888094" />
+  <Object
+    Path="C:\projects\lab1\Logical\Libraries\Library\ANSIC.lby"
+    LogicalPath="Libraries.Library"
+    Type="Library"
+    LastWriteTime="133415105875714312" />
+  <Object
+    Path="C:\projects\lab1\Logical\Libraries\Library\Types.typ"
+    LogicalPath="Libraries.Library.Types.typ"
+    Type="File"
+    LastWriteTime="133415082578788395"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Logical\Libraries\Library\Constants.var"
+    LogicalPath="Libraries.Library.Constants.var"
+    Type="File"
+    LastWriteTime="133415082578798354"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Logical\Libraries\Library\Library.fun"
+    LogicalPath="Libraries.Library.Library.fun"
+    Type="File"
+    LastWriteTime="133415968258099487"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Logical\Libraries\Library\FB_integrator.c"
+    LogicalPath="Libraries.Library.FB_integrator.c"
+    Type="File"
+    LastWriteTime="133415298844890192"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Logical\Libraries\Library\FB_motor.c"
+    LogicalPath="Libraries.Library.FB_motor.c"
+    Type="File"
+    LastWriteTime="133415298847014411"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Logical\Libraries\Library\FB_controller.c"
+    LogicalPath="Libraries.Library.FB_controller.c"
+    Type="File"
+    LastWriteTime="133415998695017971"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Logical\Libraries\operator\binary.lby"
+    LogicalPath="Libraries.operator"
+    Type="Library"
+    LastWriteTime="133415080436877720" />
+  <Object
+    Path="C:\projects\lab1\Logical\Libraries\operator\operator.fun"
+    LogicalPath="Libraries.operator.operator.fun"
+    Type="File"
+    LastWriteTime="133415080436817891"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Logical\Libraries\operator\operator.typ"
+    LogicalPath="Libraries.operator.operator.typ"
+    Type="File"
+    LastWriteTime="133415080436857889"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Logical\Libraries\operator\operator.var"
+    LogicalPath="Libraries.operator.operator.var"
+    Type="File"
+    LastWriteTime="133415080436867759"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Logical\Libraries\runtime\binary.lby"
+    LogicalPath="Libraries.runtime"
+    Type="Library"
+    LastWriteTime="133415080439929883" />
+  <Object
+    Path="C:\projects\lab1\Logical\Libraries\runtime\runtime.fun"
+    LogicalPath="Libraries.runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="133415080439880322"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Logical\Libraries\runtime\runtime.typ"
+    LogicalPath="Libraries.runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="133415080439899963"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Logical\Libraries\runtime\runtime.var"
+    LogicalPath="Libraries.runtime.runtime.var"
+    Type="File"
+    LastWriteTime="133415080439919907"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Logical\Libraries\astime\binary.lby"
+    LogicalPath="Libraries.astime"
+    Type="Library"
+    LastWriteTime="133415080442810409" />
+  <Object
+    Path="C:\projects\lab1\Logical\Libraries\astime\astime.fun"
+    LogicalPath="Libraries.astime.astime.fun"
+    Type="File"
+    LastWriteTime="133415080442770525"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Logical\Libraries\astime\astime.typ"
+    LogicalPath="Libraries.astime.astime.typ"
+    Type="File"
+    LastWriteTime="133415080442790502"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Logical\Libraries\astime\astime.var"
+    LogicalPath="Libraries.astime.astime.var"
+    Type="File"
+    LastWriteTime="133415080442810409"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Logical\Libraries\AsIecCon\binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="133415080445643189" />
+  <Object
+    Path="C:\projects\lab1\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="133415080445603287"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Logical\Libraries\AsIecCon\AsIecCon.typ"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.typ"
+    Type="File"
+    LastWriteTime="133415080445623247"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Logical\Libraries\AsIecCon\AsIecCon.var"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.var"
+    Type="File"
+    LastWriteTime="133415080445633219"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Logical\Program\ANSIC.prg"
+    LogicalPath="Program"
+    Type="Program"
+    LastWriteTime="133415081460242696" />
+  <Object
+    Path="C:\projects\lab1\Logical\Program\Main.c"
+    LogicalPath="Program.Main.c"
+    Type="File"
+    LastWriteTime="133416097175026462"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Logical\Program\Types.typ"
+    LogicalPath="Program.Types.typ"
+    Type="File"
+    LastWriteTime="133415081460222750"
+    Private="true" />
+  <Object
+    Path="C:\projects\lab1\Logical\Program\Variables.var"
+    LogicalPath="Program.Variables.var"
+    Type="File"
+    LastWriteTime="133415981350559852"
+    Private="true" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\Config.pkg"
+    LogicalPath="Config1"
+    Type="Configuration.ParentUnknown"
+    LastWriteTime="133415080492574453" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\Hardware.hw"
+    LogicalPath="Config1.Hardware.hw"
+    Type="File"
+    LastWriteTime="133416063837077758"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\Hardware.hwl"
+    LogicalPath="Config1.Hardware.hwl"
+    Type="File"
+    LastWriteTime="131865063240000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\Cpu.pkg"
+    LogicalPath="Config1.4PP065_0351_X74"
+    Type="Cpu"
+    LastWriteTime="133415080477218576" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\Cpu.sw"
+    LogicalPath="Config1.4PP065_0351_X74.Cpu.sw"
+    Type="File"
+    LastWriteTime="133415081769991345"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\Cpu.per"
+    LogicalPath="Config1.4PP065_0351_X74.Cpu.per"
+    Type="File"
+    LastWriteTime="133415080451812416"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\IoMap.iom"
+    LogicalPath="Config1.4PP065_0351_X74.IoMap.iom"
+    Type="File"
+    LastWriteTime="133415080451832444"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\PvMap.vvm"
+    LogicalPath="Config1.4PP065_0351_X74.PvMap.vvm"
+    Type="File"
+    LastWriteTime="133415080451922470"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\Connectivity\Package.pkg"
+    LogicalPath="Config1.4PP065_0351_X74.Connectivity"
+    Type="Package"
+    LastWriteTime="133415080453268526" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\Connectivity\OpcUA\Package.pkg"
+    LogicalPath="Config1.4PP065_0351_X74.Connectivity.OpcUA"
+    Type="Package"
+    LastWriteTime="133415080453258552" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\TextSystem\Package.pkg"
+    LogicalPath="Config1.4PP065_0351_X74.TextSystem"
+    Type="Package"
+    LastWriteTime="133415080453298448" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\UnitSystem\Package.pkg"
+    LogicalPath="Config1.4PP065_0351_X74.UnitSystem"
+    Type="Package"
+    LastWriteTime="133415080453398177" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\AccessAndSecurity\Package.pkg"
+    LogicalPath="Config1.4PP065_0351_X74.AccessAndSecurity"
+    Type="Package"
+    LastWriteTime="133415080453886881" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\AccessAndSecurity\UserRoleSystem\Package.pkg"
+    LogicalPath="Config1.4PP065_0351_X74.AccessAndSecurity.UserRoleSystem"
+    Type="Package"
+    LastWriteTime="133415080453577703" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\AccessAndSecurity\UserRoleSystem\Role.role"
+    LogicalPath="Config1.4PP065_0351_X74.AccessAndSecurity.UserRoleSystem.Role.role"
+    Type="File"
+    LastWriteTime="133415080453547778"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\AccessAndSecurity\UserRoleSystem\User.user"
+    LogicalPath="Config1.4PP065_0351_X74.AccessAndSecurity.UserRoleSystem.User.user"
+    Type="File"
+    LastWriteTime="133415080453567744"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\AccessAndSecurity\CertificateStore\Package.pkg"
+    LogicalPath="Config1.4PP065_0351_X74.AccessAndSecurity.CertificateStore"
+    Type="Package"
+    LastWriteTime="133415080453856956" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\AccessAndSecurity\CertificateStore\OwnCertificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0351_X74.AccessAndSecurity.CertificateStore.OwnCertificates"
+    Type="Package"
+    LastWriteTime="133415080453747246" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\AccessAndSecurity\CertificateStore\OwnCertificates\Certificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0351_X74.AccessAndSecurity.CertificateStore.OwnCertificates.Certificates"
+    Type="Package"
+    LastWriteTime="133415080453667465" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\AccessAndSecurity\CertificateStore\OwnCertificates\PrivateKeys\Package.pkg"
+    LogicalPath="Config1.4PP065_0351_X74.AccessAndSecurity.CertificateStore.OwnCertificates.PrivateKeys"
+    Type="Package"
+    LastWriteTime="133415080453687424" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0351_X74.AccessAndSecurity.CertificateStore.ThirdPartyCertificates"
+    Type="Package"
+    LastWriteTime="133415080453797114" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\SoftwareCertificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0351_X74.AccessAndSecurity.CertificateStore.ThirdPartyCertificates.SoftwareCertificates"
+    Type="Package"
+    LastWriteTime="133415080453787144" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\AccessAndSecurity\CertificateStore\CertificateRevocationLists\Package.pkg"
+    LogicalPath="Config1.4PP065_0351_X74.AccessAndSecurity.CertificateStore.CertificateRevocationLists"
+    Type="Package"
+    LastWriteTime="133415080453817062" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\AccessAndSecurity\CertificateStore\CertificateSigningRequests\Package.pkg"
+    LogicalPath="Config1.4PP065_0351_X74.AccessAndSecurity.CertificateStore.CertificateSigningRequests"
+    Type="Package"
+    LastWriteTime="133415080453846990" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\AccessAndSecurity\TransportLayerSecurity\Package.pkg"
+    LogicalPath="Config1.4PP065_0351_X74.AccessAndSecurity.TransportLayerSecurity"
+    Type="Package"
+    LastWriteTime="133415080453886881" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\mappControl\Package.pkg"
+    LogicalPath="Config1.4PP065_0351_X74.mappControl"
+    Type="Package"
+    LastWriteTime="133415080453926769" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\mappMotion\Package.pkg"
+    LogicalPath="Config1.4PP065_0351_X74.mappMotion"
+    Type="Package"
+    LastWriteTime="133415080453966660" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\mappServices\Package.pkg"
+    LogicalPath="Config1.4PP065_0351_X74.mappServices"
+    Type="Package"
+    LastWriteTime="133415080454106291" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\mappView\Package.pkg"
+    LogicalPath="Config1.4PP065_0351_X74.mappView"
+    Type="Package"
+    LastWriteTime="133415080454215992" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\mappCockpit\Package.pkg"
+    LogicalPath="Config1.4PP065_0351_X74.mappCockpit"
+    Type="Package"
+    LastWriteTime="133415080454315724" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\VC\Package.pkg"
+    LogicalPath="Config1.4PP065_0351_X74.VC"
+    Type="Package"
+    LastWriteTime="133415080478395637" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\4PP065_0351_X74\VC\4PP065_0351_X74.dis"
+    LogicalPath="Config1.4PP065_0351_X74.VC.4PP065_0351_X74.dis"
+    Type="File"
+    LastWriteTime="133415080478525030"
+    Private="false" />
+  <Object
+    Path="C:\projects\lab1\Physical\Config1\Hardware.jpg"
+    LogicalPath="Config1.Hardware.jpg"
+    Type="File"
+    LastWriteTime="133416097175325660"
+    Private="false" />
+</Objects>
